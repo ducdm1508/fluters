@@ -1,0 +1,272 @@
+[
+  {
+    "id" : 1,
+    "name": "Sandwich",
+    "price": 150,
+    "star": 4.2,
+    "categoryId": 1,
+    "description": "Fresh sandwich made with toasted bread, lettuce, tomato, cheese, and grilled chicken. Served with a special homemade sauce that gives a rich and creamy flavor.",
+    "img": "lib/assets/images/sandwich.png"
+  },
+  {
+    "id" : 2,
+    "name": "Kebab",
+    "price": 220,
+    "star": 4.5,
+    "categoryId": 1,
+    "description": "Juicy grilled kebab made from seasoned beef, wrapped with soft flatbread, fresh vegetables, and garlic yogurt sauce. A perfect choice for meat lovers.",
+    "img": "lib/assets/images/kebab.png"
+  },
+  {
+    "id" : 3,
+    "name": "Cheese Burger",
+    "price": 180,
+    "star": 4.3,
+    "categoryId": 2,
+    "description": "Classic cheeseburger with a thick beef patty, melted cheddar cheese, crispy lettuce, tomato slices, and house special burger sauce inside a soft sesame bun.",
+    "img": "lib/assets/images/burger.png"
+  },
+  {
+    "id" : 4,
+    "name": "Fried Chicken",
+    "price": 200,
+    "star": 4.6,
+    "categoryId": 2,
+    "description": "Golden crispy fried chicken marinated with special spices, crunchy outside and tender inside. Served hot and fresh for the best taste experience.",
+    "img": "lib/assets/images/fried_chicken.png"
+  },
+  {
+    "id" : 5,
+    "name": "Pizza",
+    "price": 300,
+    "star": 4.7,
+    "categoryId": 3,
+    "description": "Delicious pizza topped with mozzarella cheese, pepperoni, olives, and fresh vegetables on a thin crispy crust baked to perfection.",
+    "img": "lib/assets/images/pizza.png"
+  },
+  {
+    "id" : 6,
+    "name": "Spaghetti",
+    "price": 170,
+    "star": 4.1,
+    "categoryId": 3,
+    "description": "Italian-style spaghetti served with rich tomato sauce, minced beef, herbs, and grated parmesan cheese for a balanced savory flavor.",
+    "img": "lib/assets/images/spaghetti.png"
+  },
+  {
+    "id" : 7,
+    "name": "Grilled Steak",
+    "price": 450,
+    "star": 4.8,
+    "categoryId": 4,
+    "description": "Premium grilled steak cooked to your preferred level, seasoned with black pepper and herbs, served with mashed potatoes and fresh salad.",
+    "img": "lib/assets/images/steak.png"
+  },
+  {    "id" : 8,
+    "name": "French Fries",
+    "price": 90,
+    "star": 4.0,
+    "categoryId": 4,
+    "description": "Crispy golden french fries sprinkled with salt and served with tomato ketchup or creamy mayonnaise dipping sauce.",
+    "img": "lib/assets/images/fries.png"
+  },
+  {
+    "id" : 9,
+    "name": "Fresh Juice",
+    "price": 120,
+    "star": 4.4,
+    "categoryId": 5,
+    "description": "Refreshing fresh fruit juice made from seasonal fruits, no added sugar, packed with natural vitamins and nutrients.",
+    "img": "lib/assets/images/juice.png"
+  },
+  {
+    "id" : 10,
+    "name": "Ice Cream",
+    "price": 110,
+    "star": 4.5,
+    "categoryId": 5,
+    "description": "Creamy and smooth ice cream available in multiple flavors including chocolate, vanilla, and strawberry, topped with sweet syrup.",
+    "img": "lib/assets/images/icecream.png"
+  }
+,
+  {
+    "id": 11,
+    "name": "Double Sandwich",
+    "price": 170,
+    "star": 4.3,
+    "categoryId": 1,
+    "description": "Double layer sandwich with extra chicken and cheese for a richer taste experience.",
+    "img": "lib/assets/images/sandwich.png"
+  },
+  {
+    "id": 12,
+    "name": "Spicy Kebab",
+    "price": 240,
+    "star": 4.6,
+    "categoryId": 1,
+    "description": "Spicy grilled kebab with chili sauce and fresh vegetables wrapped in soft bread.",
+    "img": "lib/assets/images/kebab.png"
+  },
+  {
+    "id": 13,
+    "name": "BBQ Burger",
+    "price": 210,
+    "star": 4.4,
+    "categoryId": 2,
+    "description": "Beef burger topped with BBQ sauce, melted cheese, and crispy lettuce.",
+    "img": "lib/assets/images/burger.png"
+  },
+  {
+    "id": 14,
+    "name": "Chicken Burger",
+    "price": 190,
+    "star": 4.2,
+    "categoryId": 2,
+    "description": "Crispy chicken burger with fresh vegetables and creamy sauce.",
+    "img": "lib/assets/images/burger.png"
+  },
+  {
+    "id": 15,
+    "name": "Hot Fried Chicken",
+    "price": 230,
+    "star": 4.7,
+    "categoryId": 2,
+    "description": "Extra spicy fried chicken with crunchy coating and juicy inside.",
+    "img": "lib/assets/images/fried_chicken.png"
+  },
+  {
+    "id": 16,
+    "name": "Seafood Pizza",
+    "price": 350,
+    "star": 4.8,
+    "categoryId": 3,
+    "description": "Pizza topped with shrimp, squid, mozzarella cheese and special seafood sauce.",
+    "img": "lib/assets/images/pizza.png"
+  },
+  {
+    "id": 17,
+    "name": "Cheese Pizza",
+    "price": 280,
+    "star": 4.5,
+    "categoryId": 3,
+    "description": "Classic cheese pizza with extra mozzarella and crispy crust.",
+    "img": "lib/assets/images/pizza.png"
+  },
+  {
+    "id": 18,
+    "name": "Carbonara Spaghetti",
+    "price": 200,
+    "star": 4.4,
+    "categoryId": 3,
+    "description": "Creamy carbonara spaghetti with bacon and parmesan cheese.",
+    "img": "lib/assets/images/spaghetti.png"
+  },
+  {
+    "id": 19,
+    "name": "Medium Steak",
+    "price": 480,
+    "star": 4.9,
+    "categoryId": 4,
+    "description": "Juicy medium-cooked steak served with mashed potatoes and vegetables.",
+    "img": "lib/assets/images/steak.png"
+  },
+  {
+    "id": 20,
+    "name": "Cheese Fries",
+    "price": 130,
+    "star": 4.3,
+    "categoryId": 4,
+    "description": "Crispy fries topped with melted cheese and special sauce.",
+    "img": "lib/assets/images/fries.png"
+  },
+  {
+    "id": 21,
+    "name": "Orange Juice",
+    "price": 130,
+    "star": 4.5,
+    "categoryId": 5,
+    "description": "Freshly squeezed orange juice rich in vitamin C.",
+    "img": "lib/assets/images/juice.png"
+  },
+  {
+    "id": 22,
+    "name": "Strawberry Juice",
+    "price": 140,
+    "star": 4.6,
+    "categoryId": 5,
+    "description": "Sweet and refreshing strawberry juice made from fresh fruits.",
+    "img": "lib/assets/images/juice.png"
+  },
+  {
+    "id": 23,
+    "name": "Chocolate Ice Cream",
+    "price": 120,
+    "star": 4.6,
+    "categoryId": 5,
+    "description": "Smooth chocolate ice cream topped with chocolate syrup.",
+    "img": "lib/assets/images/icecream.png"
+  },
+  {
+    "id": 24,
+    "name": "Vanilla Ice Cream",
+    "price": 115,
+    "star": 4.4,
+    "categoryId": 5,
+    "description": "Classic vanilla ice cream with creamy texture.",
+    "img": "lib/assets/images/icecream.png"
+  },
+  {
+    "id": 25,
+    "name": "Mega Burger",
+    "price": 260,
+    "star": 4.7,
+    "categoryId": 2,
+    "description": "Large burger with double beef patties and extra cheese.",
+    "img": "lib/assets/images/burger.png"
+  },
+  {
+    "id": 26,
+    "name": "Family Pizza",
+    "price": 400,
+    "star": 4.8,
+    "categoryId": 3,
+    "description": "Large size pizza perfect for family sharing.",
+    "img": "lib/assets/images/pizza.png"
+  },
+  {
+    "id": 27,
+    "name": "BBQ Steak",
+    "price": 500,
+    "star": 4.9,
+    "categoryId": 4,
+    "description": "Grilled steak with BBQ sauce and herbs.",
+    "img": "lib/assets/images/steak.png"
+  },
+  {
+    "id": 28,
+    "name": "Garlic Fries",
+    "price": 110,
+    "star": 4.2,
+    "categoryId": 4,
+    "description": "French fries tossed with garlic butter and herbs.",
+    "img": "lib/assets/images/fries.png"
+  },
+  {
+    "id": 29,
+    "name": "Mixed Juice",
+    "price": 150,
+    "star": 4.5,
+    "categoryId": 5,
+    "description": "A refreshing mix of seasonal fruits blended together.",
+    "img": "lib/assets/images/juice.png"
+  },
+  {
+    "id": 30,
+    "name": "Special Kebab",
+    "price": 260,
+    "star": 4.7,
+    "categoryId": 1,
+    "description": "Premium kebab with extra meat and special house sauce.",
+    "img": "lib/assets/images/kebab.png"
+  }
+]
